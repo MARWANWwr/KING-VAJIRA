@@ -22,7 +22,7 @@ const fs = require('fs-extra')
    packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '-' : process.env.PACK_INFO.split(";")[1],
    sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID, 
    autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION , 
-   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD, 
+   antibadword :  process.env.ANTI_BAD_WORD === undefined ? false : process.env.ANTI_BAD_WORD, 
    alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
 voice  :  process.env.AUTO_VOICE === undefined ? false : process.env.AUTO_VOICE, 
    antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '971' : process.env.FAKE_COUNTRY_CODE, 
