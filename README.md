@@ -15,7 +15,7 @@
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
-1. ***Get [QR SCAN](https://replit.com/@vajirabot1/QUEEN-VARSHA-MD-3?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1.* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://qr-web-prabath-md-update.vercel.app/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Click [FORK](https://github.com/vajirarathnayaka/QUEEN-VARSHA/fork)***
 ## Heroku Deployment Method
 3. 
