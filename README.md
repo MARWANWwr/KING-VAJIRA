@@ -12,6 +12,10 @@
 <a href="https://github.com/vajirarathnayaka">
     <img src="https://telegra.ph/file/5957c3b455f2127f6ed10.jpg" width="700px">
   </a>
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Varsha+Whatsapp+Bot" alt="">
+
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
