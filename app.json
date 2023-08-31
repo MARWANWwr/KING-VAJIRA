@@ -1,5 +1,5 @@
 { 
-   "name": "QUEEN VARSHA", 
+   "name": "KING VAJIRA", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
    "logo": "https://telegra.ph/file/5957c3b455f2127f6ed10.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
@@ -80,7 +80,7 @@
    }, 
      "THEME": { 
      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
-      "value": "VARSHA" 
+      "value": "VAJIRA" 
    }, 
      "WORKTYPE": { 
    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
@@ -113,7 +113,7 @@
    },   
    "PACK_INFO": { 
      "description": "Put packname;authorname.", 
-      "value": "Queen;Varsha", 
+      "value": "King;Vajira", 
       "required": false  
    }, 
    "heroku": { 
