@@ -10,7 +10,7 @@
 
    <p align="center">
 <a href="https://github.com/vajirarathnayaka">
-    <img src="[https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg]" width="700px">
+    <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" width="700px">
   </a>
 
 <p align="center">
