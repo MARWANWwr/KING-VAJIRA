@@ -60,6 +60,7 @@
     "DISABLE_PM": { 
      "description": "Disable bot in pm", 
       "required" :false
+      "value": "false"
      }, 
        "PREFIX": { 
    "description": "Enter your desired prefix for bot.", 
