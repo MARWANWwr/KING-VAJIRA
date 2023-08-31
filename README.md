@@ -10,7 +10,7 @@
 
    <p align="center">
 <a href="https://github.com/vajirarathnayaka">
-    <img src="https://telegra.ph/file/5957c3b455f2127f6ed10.jpg" width="700px">
+    <img src="[https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg)" width="700px">
   </a>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Message me = https://wa.me/94766943622
     
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@vajirabot1/QUEEN-VARSHA-MD-4?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@vajirabot1/KING-VAJIRA-MD?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 ***Click [FORK](https://github.com/vajirarathnayaka/KING-VAJIRA/fork)***
 ## Heroku Deployment Method
