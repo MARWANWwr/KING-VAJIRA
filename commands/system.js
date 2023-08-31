@@ -243,7 +243,7 @@ Void.sendMessage(citel.chat, {
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-This is QUEEN VARSHA
+This is KING VAJIRA
 ${alivemessage}
 
 🍧Version:-* 0.0.3
@@ -251,7 +251,7 @@ ${alivemessage}
 👤Owner:-* ${Config.ownername}
 🎧Branch:-* ${Config.BRANCH}
 
-● Powerd By Queen Nithya
+● Powerd By KING VAJIRA
 
 📗Owner ${Config.ownername}`;
             let aliveMessage = {
