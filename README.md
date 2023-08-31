@@ -1,12 +1,12 @@
 <div align="center">
-    ⏬<b>Queen Varsha⏬</b>
+    ⏬<b>KING VAJIRA⏬</b>
 
   
 <div align="center">
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+QUEEN+VARSHA+WHATSAPP+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com/vajirarathnayaka">
@@ -14,7 +14,7 @@
   </a>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Queen+Varsha+Whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=King+Vajira+Whatsapp+Bot" alt="">
 
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
@@ -23,7 +23,7 @@ Message me = https://wa.me/94766943622
     
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@vajirabot1/QUEEN-VARSHA-MD-4?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-***Click [FORK](https://github.com/vajirarathnayaka/QUEEN-VARSHA/fork)***
+***Click [FORK](https://github.com/vajirarathnayaka/KING-VAJIRA/fork)***
 ## Heroku Deployment Method
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -40,9 +40,9 @@ Message me = https://wa.me/94766943622
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/DileepaTech/Queen-Nithya-MD)
 
-QUEEN VARSHA whatsapp bot is,
+KING VAJIRA whatsapp bot is,
 
-      QUEEN VARSHA whatsapp bot is an easy to use whatsapp robot.   |  QUEEN VARSHA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      KING VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  KING VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
   
