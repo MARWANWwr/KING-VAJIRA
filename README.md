@@ -21,7 +21,7 @@
 
 Message me = https://wa.me/94766943622
     
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@VajiraRathnayak/QUEEN-VARSHA-MD?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@yasasdileepara1/QUEEN-NITHYA-MD?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 ***Click [FORK](https://github.com/vajirarathnayaka/QUEEN-VARSHA/fork)***
 ## Heroku Deployment Method
